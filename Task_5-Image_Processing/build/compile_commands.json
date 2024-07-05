@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sp2010/Task_5-Image_Processing/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /opt/homebrew/Cellar/opencv/4.9.0_11/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/Task_5-Image_Processing.dir/main.cpp.o -c /Users/sp2010/Task_5-Image_Processing/main.cpp",
+  "file": "/Users/sp2010/Task_5-Image_Processing/main.cpp",
+  "output": "CMakeFiles/Task_5-Image_Processing.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/Users/sp2010/Task_5-Image_Processing/CMakeFiles/Task_5-Image_Processing.dir
+/Users/sp2010/Task_5-Image_Processing/CMakeFiles/edit_cache.dir
+/Users/sp2010/Task_5-Image_Processing/CMakeFiles/rebuild_cache.dir
