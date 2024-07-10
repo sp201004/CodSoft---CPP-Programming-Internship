@@ -1,3 +1,8 @@
+// CodSoft Internship
+// Domain Name - C++ Programming
+// Task - 2 (Number Guessing)
+// Intern Name - Surya Pratap Singh
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>

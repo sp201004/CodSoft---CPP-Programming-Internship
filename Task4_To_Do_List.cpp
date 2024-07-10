@@ -1,3 +1,8 @@
+// CodSoft Internship
+// Domain Name - C++ Programming
+// Task - 4 (To-Do-List)
+// Intern Name - Surya Pratap Singh
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -20,12 +25,18 @@ void addTask(vector<Task>& tasks) {
     cin.ignore(); // To ignore the newline character left in the buffer
 
     for (int i = 0; i < numberOfTasks; ++i) {
-        cout << "Enter task description for task " << i + 1 << ": ";
+        cout << "Enter task description for task " << i + 1 << " (or type 'exit' to stop): ";
         string description;
         getline(cin, description);
+
+        if (description == "exit") {
+            cout << "Exiting task addition.\n";
+            break;
+        }
+
         tasks.push_back(Task(description));
     }
-    cout << numberOfTasks << " task(s) added successfully.\n";
+    cout << "Task addition completed.\n";
 }
 
 void viewTasks(const vector<Task>& tasks) {

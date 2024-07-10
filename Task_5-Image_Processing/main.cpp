@@ -1,3 +1,8 @@
+// CodSoft Internship
+// Domain Name - C++ Programming
+// Task - 5 (Image Processing)
+// Intern Name - Surya Pratap Singh
+
 #include <iostream>
 #include <opencv2/opencv.hpp>
 
