@@ -3,7 +3,6 @@
 // Task - 2 (Simple Calculator)
 // Intern Name - Surya Pratap Singh
 
-
 #include <iostream>
 using namespace std;
 
