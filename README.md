@@ -1,6 +1,5 @@
 # CodSoft C++ Programming Internship
 
-![Poster](url_to_your_image)
 
 ## Task 1: Number Guessing Game
 Create a program that generates a random number and asks the user to guess it. Provide feedback on whether the guess is too high or too low until the user guesses the correct number.
